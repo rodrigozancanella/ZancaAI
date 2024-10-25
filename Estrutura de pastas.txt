@@ -1,0 +1,29 @@
+ZancaAI/
+│
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── config.py
+│   └── database.py
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles/
+│   │   ├── main.css
+│   │   ├── responsive.css
+│   │   ├── theme.css
+│   │   └── animations.css
+│   └── scripts/
+│       ├── main.js
+│       ├── ui.js
+│       ├── api.js
+│       └── events.js
+│
+├── assets/
+│   ├── images/
+│   ├── fonts/
+│   ├── videos/
+│   └── icons/
+│
+├── README.md
+└── .gitignore
