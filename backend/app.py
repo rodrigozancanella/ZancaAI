@@ -16,4 +16,4 @@ st.header("Funcionalidades")
 st.write("- Análise de áudio\n- Medições de LUFS\n- Sugestões de mixagem\n- E muito mais!")
 
 st.markdown("---")
-st.write("Criado por Rodrigo Zancanella. Todos os direitos reservados.Deus, obrigado!a")
+st.write("Criado por Rodrigo Zancanella. Todos os direitos reservados.Deus, obrigado! Por tudooooo3")
