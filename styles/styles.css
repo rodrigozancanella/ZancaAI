@@ -1,0 +1,27 @@
+/* Estilo da barra de navegação */
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 1rem;
+}
+
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Estilo do botão de Login */
+.login-button {
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
