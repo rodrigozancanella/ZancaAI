@@ -1,0 +1,11 @@
+streamlit                # Biblioteca principal para construir a interface
+numpy                    # Para manipulação de dados
+pandas                   # Para análise de dados
+matplotlib               # Para visualização de dados
+scikit-learn             # Para aprendizado de máquina
+tensorflow               # Para construir e treinar modelos de IA
+librosa                  # Para análise de áudio
+pydub                    # Para manipulação de áudio
+firebase-admin           # Para interações com o Firebase
+#streamlit-firebase-auth  # Para autenticação via Firebase
+pyrebase
